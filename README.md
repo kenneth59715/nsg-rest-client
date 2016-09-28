@@ -1,7 +1,7 @@
 # nsg-rest-client
 Example clients for using NSG Portal REST API
 
-Before this notebook can be used to run NSG-R jobs, two steps must be done:
+Before this notebook can be used to run NSG-R jobs:
 
 - The user must register at https://www.nsgportal.org/reg/reg.php
 - An Application Key must be obtained:
